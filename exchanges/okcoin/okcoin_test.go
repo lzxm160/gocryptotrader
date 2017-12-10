@@ -3,7 +3,7 @@ package okcoin
 import (
 	"testing"
 
-	"github.com/thrasher-/gocryptotrader/config"
+	"github.com/lzxm160/gocryptotrader/config"
 )
 
 var o OKCoin

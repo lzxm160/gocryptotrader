@@ -11,10 +11,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/thrasher-/gocryptotrader/common"
-	"github.com/thrasher-/gocryptotrader/currency"
-	"github.com/thrasher-/gocryptotrader/portfolio"
-	"github.com/thrasher-/gocryptotrader/smsglobal"
+	"github.com/lzxm160/gocryptotrader/common"
+	"github.com/lzxm160/gocryptotrader/currency"
+	"github.com/lzxm160/gocryptotrader/portfolio"
+	"github.com/lzxm160/gocryptotrader/smsglobal"
 )
 
 // Constants declared here are filename strings and test strings

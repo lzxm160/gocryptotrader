@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/thrasher-/gocryptotrader/common"
-	"github.com/thrasher-/gocryptotrader/config"
-	"github.com/thrasher-/gocryptotrader/exchanges"
+	"github.com/lzxm160/gocryptotrader/common"
+	"github.com/lzxm160/gocryptotrader/config"
+	"github.com/lzxm160/gocryptotrader/exchanges"
 )
 
 const (

@@ -4,11 +4,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/thrasher-/gocryptotrader/currency/pair"
-	exchange "github.com/thrasher-/gocryptotrader/exchanges"
-	"github.com/thrasher-/gocryptotrader/exchanges/orderbook"
-	"github.com/thrasher-/gocryptotrader/exchanges/stats"
-	"github.com/thrasher-/gocryptotrader/exchanges/ticker"
+	"github.com/lzxm160/gocryptotrader/currency/pair"
+	exchange "github.com/lzxm160/gocryptotrader/exchanges"
+	"github.com/lzxm160/gocryptotrader/exchanges/orderbook"
+	"github.com/lzxm160/gocryptotrader/exchanges/stats"
+	"github.com/lzxm160/gocryptotrader/exchanges/ticker"
 )
 
 // GetSpecificOrderbook returns a specific orderbook given the currency,

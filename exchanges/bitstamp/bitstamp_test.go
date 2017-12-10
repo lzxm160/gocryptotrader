@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/thrasher-/gocryptotrader/config"
+	"github.com/lzxm160/gocryptotrader/config"
 )
 
 // Please add your private keys and customerID for better tests

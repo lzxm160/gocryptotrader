@@ -4,8 +4,8 @@ import (
 	"flag"
 	"log"
 
-	"github.com/thrasher-/gocryptotrader/common"
-	"github.com/thrasher-/gocryptotrader/config"
+	"github.com/lzxm160/gocryptotrader/common"
+	"github.com/lzxm160/gocryptotrader/config"
 )
 
 // EncryptOrDecrypt returns a string from a boolean

@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/thrasher-/gocryptotrader/common"
-	"github.com/thrasher-/gocryptotrader/config"
-	"github.com/thrasher-/gocryptotrader/currency"
+	"github.com/lzxm160/gocryptotrader/common"
+	"github.com/lzxm160/gocryptotrader/config"
+	"github.com/lzxm160/gocryptotrader/currency"
 )
 
 // Const vars for websocket

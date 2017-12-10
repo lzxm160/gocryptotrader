@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/thrasher-/gocryptotrader/common"
-	"github.com/thrasher-/gocryptotrader/exchanges"
-	"github.com/thrasher-/gocryptotrader/exchanges/ticker"
+	"github.com/lzxm160/gocryptotrader/common"
+	"github.com/lzxm160/gocryptotrader/exchanges"
+	"github.com/lzxm160/gocryptotrader/exchanges/ticker"
 )
 
 const (

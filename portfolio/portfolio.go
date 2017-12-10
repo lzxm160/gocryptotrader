@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/thrasher-/gocryptotrader/common"
+	"github.com/lzxm160/gocryptotrader/common"
 )
 
 const (

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/thrasher-/gocryptotrader/common"
+	"github.com/lzxm160/gocryptotrader/common"
 )
 
 func TestSetProvider(t *testing.T) {

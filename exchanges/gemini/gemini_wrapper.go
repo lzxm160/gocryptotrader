@@ -4,10 +4,10 @@ import (
 	"log"
 	"net/url"
 
-	"github.com/thrasher-/gocryptotrader/currency/pair"
-	"github.com/thrasher-/gocryptotrader/exchanges"
-	"github.com/thrasher-/gocryptotrader/exchanges/orderbook"
-	"github.com/thrasher-/gocryptotrader/exchanges/ticker"
+	"github.com/lzxm160/gocryptotrader/currency/pair"
+	"github.com/lzxm160/gocryptotrader/exchanges"
+	"github.com/lzxm160/gocryptotrader/exchanges/orderbook"
+	"github.com/lzxm160/gocryptotrader/exchanges/ticker"
 )
 
 // Start starts the Gemini go routine
